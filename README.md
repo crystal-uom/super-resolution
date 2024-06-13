@@ -12,7 +12,6 @@ $$
 
 $$
 \text{CNR} = \frac{|\mu_f - \mu_b|}{\sqrt{\frac{\sigma_f^2 + \sigma_b^2}{2}}}
-
 $$
 
 - $\mu_f$ is the mean intensity of the foreground.
